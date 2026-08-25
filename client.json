@@ -1,5 +1,5 @@
 {
-  "client_id": "https://cdn.jsdelivr.net/gh/WhitenWhiten/known-mcp-sim-cimd@main/client.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/WhitenWhiten/known-mcp-sim-cimd@master/client.json",
   "client_name": "Know-N MCP Simulation Agent",
   "redirect_uris": [
     "http://127.0.0.1:18765/callback"
